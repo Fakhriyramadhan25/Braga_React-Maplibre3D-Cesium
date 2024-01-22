@@ -29,5 +29,5 @@ Eventually, you can run your code once all the pre-requirements ready by using "
 
 ## Visualization
 
-[Satellite Imagery visualization](./src/assets/satimg.png)
-[OSM visualization](./src/assets/osmimg.png)
+![Satellite Imagery visualization](./src/assets/satimg.png)
+![OSM visualization](./src/assets/osmimg.png)
