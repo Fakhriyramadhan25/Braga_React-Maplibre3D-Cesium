@@ -1,0 +1,11 @@
+.heading {
+    margin: 0;
+    padding: 0px;
+    background-color: rgb(203, 202, 202);
+    color: rgb(0, 0, 0);
+    text-align: center;
+  }
+  
+  .heading > h1 {
+    padding: 20px;
+  }
